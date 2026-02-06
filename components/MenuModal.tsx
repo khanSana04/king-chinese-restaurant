@@ -64,7 +64,7 @@ const MenuModal: React.FC<MenuModalProps> = ({ category, onClose }) => {
 
         <div className="p-6 bg-stone-50 flex gap-4">
           <a 
-            href="tel:+919876543210" 
+            href="tel:+917208204567" 
             className="flex-1 bg-red-600 text-white text-center py-4 rounded-xl font-bold hover:bg-red-700 transition-all shadow-lg shadow-red-600/20"
           >
             Order Now
