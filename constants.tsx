@@ -5,8 +5,8 @@ export const RESTAURANT_INFO = {
   name: "King Chinese & Kebab",
   address: "Shop 11, Pipe Road, Brahmanwadi, Near Lucky Hall, Kurla, Mumbai",
   rating: "4.1",
-  phone: "+919876543210",
-  whatsapp: "+919876543210",
+  phone: "+917208204567",
+  whatsapp: "+917208204567",
   googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=King+Chinese+Kebab+Kurla+Mumbai"
 };
 
