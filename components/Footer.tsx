@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 bg-white rounded-lg flex items-center justify-center shadow-lg transform -rotate-3 overflow-hidden">
           <img
-            src="../assets/logos.png"
+            src={`${import.meta.env.BASE_URL}assets/logos.png`}
             alt="logo"
             className="w-full h-full object-contain p-1 rotate-3"
           />
